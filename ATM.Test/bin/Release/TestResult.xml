@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\nice\Documents\Visual Studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.dll" total="9" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-19" time="05:50:37">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="NICENICE" user="nice" user-domain="nicenice" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\nice\Documents\Visual Studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.dll" executed="True" result="Success" success="True" time="0.247" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ATM" executed="True" result="Success" success="True" time="0.222" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.221" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CashDispenserTest" executed="True" result="Success" success="True" time="0.218" asserts="0">
+                <results>
+                  <test-case name="ATM.Test.CashDispenserTest.TestEqualsMoney" executed="True" result="Success" success="True" time="0.092" asserts="4" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestHashCode" executed="True" result="Success" success="True" time="0.029" asserts="1" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestIsZeroMoney" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestPrint" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestValidInitialFaceValues" executed="True" result="Success" success="True" time="0.007" asserts="2" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestValidSetFaceValues" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestWithdrawCorrectFaceVals" executed="True" result="Success" success="True" time="0.017" asserts="1" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestWithdrawNotCorrectFaceVals" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="ATM.Test.CashDispenserTest.TestWithdrawZeroMoney" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

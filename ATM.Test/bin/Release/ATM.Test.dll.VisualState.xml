@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Users\nice\Documents\Visual Studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.dll</TopNode>
+  <SelectedNode>[0-1000]ATM.Test.CashDispenserTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Users\nice\Documents\Visual Studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]ATM" Expanded="true" />
+    <Node UniqueName="[0-1012]ATM.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]ATM.Test.CashDispenserTest" Expanded="true" />
+  </Nodes>
+</VisualState>

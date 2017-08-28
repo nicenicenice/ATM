@@ -1,0 +1,10 @@
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.dll
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.Test.pdb
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.exe
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\nunit.framework.dll
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\ATM.pdb
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\bin\Release\nunit.framework.xml
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\obj\Release\ATM.Test.csprojResolveAssemblyReference.cache
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\obj\Release\ATM.Test.dll
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM.Test\obj\Release\ATM.Test.pdb

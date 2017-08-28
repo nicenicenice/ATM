@@ -1,0 +1,6 @@
+c:\users\nice\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\nice\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.pdb
